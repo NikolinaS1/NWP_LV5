@@ -1,0 +1,50 @@
+<?php
+
+return [
+    'localization' => 'Localization',
+    'sorry' => 'I am sorry, you can not use the site until the admin assigns you a role!',
+    'dashboard' => 'Dashboard',
+    'login' => 'Login',
+    'register' => 'Register',
+    'home' => 'Home',
+    'language' => 'Choose language',
+    'logout' => 'Log out',
+    'user_name' => 'User Name', 
+    'email' => 'Email', 
+    'role' => 'Role',
+    'study' => 'Type of study',
+    'actions' => 'Actions',
+    'edit_role' => 'Edit User role',
+    'edit_study' => 'Edit Type of Study',
+    'name' => 'Name',
+    'none' => 'None',
+    'admin' => 'Admin',
+    'teacher' => 'Teacher',
+    'student' => 'Student',
+    'update' => 'Update',
+    'strucni' => 'Professional',
+    'preddiplomski' => 'Graduate',
+    'diplomski' => 'Undergraduate',
+
+    'papers' => 'Papers',
+    'add_paper' => 'Add new paper',
+    'paper_name' => 'Paper name',
+    'paper_name_en' => 'Paper name (en)',
+    'paper_task' => 'Paper task',
+    'see_applied' => 'See who applied',
+    'assigned' => 'Assigned to',
+    'save' => 'Save',
+    'no_applied' => 'No one applied for this paper.',
+    'set' => 'Set',
+
+    'papers_can_applied' => 'Papers you can apply for',
+    'cancel' => 'Cancel',
+    'apply' => 'Apply',
+    'applied' => 'Applied papers',
+    'status' => 'Status',
+    'accepted' => 'Accepted!',
+    'no_applied_papers' => 'No applied papers yet.',
+
+];
+
+?>
